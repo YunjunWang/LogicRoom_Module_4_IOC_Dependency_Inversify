@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES6",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "types": [
+      "reflect-metadata",
+      "jest"
+    ],
+    "jsx": "react"
+  }
+}
